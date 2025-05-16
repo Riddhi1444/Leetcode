@@ -41,7 +41,7 @@ public:
         return diff == 1;
     }
 };
-
+a
 
 hi
 a
