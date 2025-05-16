@@ -1,4 +1,4 @@
-rpjgvgdfoivqlwjfcimmbdorknhgwteshhghfjsysnkwssfmclass Solution {
+lrpjgvgdfoivqlwjfcimmbdorknhgwteshhghfjsysnkwssfmclass Solution {
 public:
     vector<string> getWordsInLongestSubsequence(vector<string>& words,
                                                 vector<int>& groups) {
