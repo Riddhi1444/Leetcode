@@ -3,7 +3,7 @@ public:
     vector<string> getWordsInLongestSubsequence(vector<string>& words,
                                                 vector<int>& groups) {
 
-abcdef
+abcdefg
         int n = groups.size();
         vector<int> dp(n, 1);
         vector<int> prev(n, -1);
