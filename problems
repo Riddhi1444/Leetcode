@@ -43,3 +43,4 @@ abcdefghm
         return diff == 1;
     }
 };
+longest array group prb
