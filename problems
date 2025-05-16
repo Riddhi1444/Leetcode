@@ -1,5 +1,5 @@
-sfmjbdwlrpjgvgdfoivqlwjfcimmbdorknhgwteshhghfjsysnkwssfmclass Solution {
-public:g
+class Solution {
+public:
     vector<string> getWordsInLongestSubsequence(vector<string>& words,
                                                 vector<int>& groups) {
 
@@ -43,13 +43,3 @@ abcdefghm
         return diff == 1;
     }
 };
-a
-
-hi
-a
-b
-c
-d
-e
-fh
-g
