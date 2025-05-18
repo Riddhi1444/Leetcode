@@ -1,5 +1,5 @@
 mmghupoffcsabasgggeugwagsdvolkbdgavabamf
-b
+bj
 class Solution {
 public:
     vector<string> getWordsInLongestSubsequence(vector<string>& words,
